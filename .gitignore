@@ -1,32 +1,7 @@
-# Prerequisites
-*.d
+?*.txt
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+!help.txt
 
-# Precompiled Headers
-*.gch
-*.pch
+/run
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+bmp_1.png
